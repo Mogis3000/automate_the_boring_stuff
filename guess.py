@@ -1,3 +1,5 @@
+# Automate the Boring Stuff by Al Sweigart
+# pg 50
 # This is a guess the number game.
 import random
 
