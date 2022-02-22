@@ -1,3 +1,6 @@
+# Automate the Boring Stuff by Al Sweigart
+# pg 37
+
 name = ''
 while True:
     print('Please type your name.')
