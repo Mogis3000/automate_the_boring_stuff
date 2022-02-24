@@ -1,9 +1,6 @@
 # Automate the Boring Stuff by Al Sweigart
 # pg 69
 
-from pkg_resources import EGG_DIST
-
-
 def spam():
     global eggs
     eggs = 'spam' # this is the global
