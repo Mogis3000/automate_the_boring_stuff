@@ -1,6 +1,3 @@
-from pkg_resources import EGG_DIST, EggMetadata
-
-
 # Automate the Boring Stuff by Al Sweigart
 # pg 68
 
